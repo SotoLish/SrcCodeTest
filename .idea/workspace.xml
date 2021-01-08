@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6339d0d-abfa-4eca-b01f-76838cdfd8c7" name="Default Changelist" comment="" />
+    <list default="true" id="f6339d0d-abfa-4eca-b01f-76838cdfd8c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/ExceptionMsgCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/ExceptionToMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/StringTrimTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/ThreadFinallyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/soto/test/FileWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/FileWriterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/soto/test/StringReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/StringReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/soto/test/FileWriterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/soto/test/FileWriterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/soto/test/StringReplace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/soto/test/StringReplace.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -48,6 +62,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1kKUEMJDt2VekHORDy9r59JvaHS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -57,6 +72,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -67,15 +83,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.EmailSend">
+  <component name="RunManager" selected="Application.ExceptionMsgCatch">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmailSend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.soto.test.EmailSend" />
+    <configuration name="ExceptionMsgCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.soto.test.ExceptionMsgCatch" />
       <module name="SrcCodeTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -88,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonFileRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.soto.test.JsonFileRead" />
+    <configuration name="ExceptionToMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.soto.test.ExceptionToMethod" />
       <module name="SrcCodeTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -102,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapGetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.soto.test.MapGetTest" />
+    <configuration name="FileWriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.soto.test.FileWriterTest" />
       <module name="SrcCodeTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -116,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecurMkdir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.soto.test.RecurMkdir" />
+    <configuration name="StringTrimTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.soto.test.StringTrimTest" />
       <module name="SrcCodeTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -130,8 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.soto.test.StringReplace" />
+    <configuration name="ThreadFinallyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.soto.test.ThreadFinallyTest" />
       <module name="SrcCodeTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -177,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmailSend" />
-        <item itemvalue="Application.JsonFileRead" />
-        <item itemvalue="Application.StringReplace" />
-        <item itemvalue="Application.RecurMkdir" />
-        <item itemvalue="Application.MapGetTest" />
+        <item itemvalue="Application.ExceptionMsgCatch" />
+        <item itemvalue="Application.ExceptionToMethod" />
+        <item itemvalue="Application.ThreadFinallyTest" />
+        <item itemvalue="Application.StringTrimTest" />
+        <item itemvalue="Application.FileWriterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +231,10 @@
       <workItem from="1608788388305" duration="2221000" />
       <workItem from="1609120264049" duration="1271000" />
       <workItem from="1609126637536" duration="587000" />
+      <workItem from="1609204422295" duration="1177000" />
+      <workItem from="1609898816000" duration="2877000" />
+      <workItem from="1609904617423" duration="61000" />
+      <workItem from="1609904712570" duration="3366000" />
     </task>
     <servers />
   </component>
@@ -226,34 +246,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" width="835" height="683" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1608606242712" />
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1607599441505">
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1609982965507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1607599441505" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609982965507" />
     <state x="529" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1609120422025">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="529" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1609120422025" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608195621182">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1610073726926">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608195621182" />
-    <state width="1323" height="477" key="GridCell.Tab.0.bottom" timestamp="1609204602668">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610073726926" />
+    <state width="1323" height="206" key="GridCell.Tab.0.bottom" timestamp="1610075102534">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="477" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609204602668" />
-    <state width="1323" height="477" key="GridCell.Tab.0.center" timestamp="1609204602668">
+    <state width="1323" height="206" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610075102534" />
+    <state width="1323" height="206" key="GridCell.Tab.0.center" timestamp="1610075102534">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="477" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609204602668" />
-    <state width="1323" height="477" key="GridCell.Tab.0.left" timestamp="1609204602667">
+    <state width="1323" height="206" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610075102534" />
+    <state width="1323" height="206" key="GridCell.Tab.0.left" timestamp="1610075102533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="477" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609204602667" />
-    <state width="1323" height="477" key="GridCell.Tab.0.right" timestamp="1609204602668">
+    <state width="1323" height="206" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610075102533" />
+    <state width="1323" height="206" key="GridCell.Tab.0.right" timestamp="1610075102534">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="477" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609204602668" />
+    <state width="1323" height="206" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610075102534" />
     <state width="1323" height="134" key="GridCell.Tab.1.bottom" timestamp="1608519196260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -278,6 +298,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609120332414" />
+    <state x="389" y="137" key="git4idea.merge.GitPullDialog" timestamp="1609205001832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="137" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1609205001832" />
     <state x="53" y="59" key="new project wizard" timestamp="1605449442362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

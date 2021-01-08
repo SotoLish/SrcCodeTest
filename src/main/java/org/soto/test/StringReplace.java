@@ -15,6 +15,10 @@ public class StringReplace {
 //        System.out.println(getOverlapString(str1, str2));
 //        System.out.println(str2.indexOf(comStr));
         System.out.println(result);
+
+
+        String datetime = "2021-01-05 18:23:39";
+        System.out.println(datetime.subSequence(0,10));
     }
 
     /**
