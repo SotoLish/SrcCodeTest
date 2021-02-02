@@ -1,5 +1,7 @@
 package org.soto.test;
 
+import cn.hutool.core.util.StrUtil;
+
 /**
  * 字符串去空判断
  */
@@ -18,5 +20,6 @@ public class StringTrimTest {
         //System.out.println(test.trim());
         System.out.println("分隔符");
         System.out.println(test.replaceAll("\\s*"," "));
+
     }
 }

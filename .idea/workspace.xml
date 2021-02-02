@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6339d0d-abfa-4eca-b01f-76838cdfd8c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/ExceptionMsgCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/ExceptionToMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/StringTrimTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/ThreadFinallyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/soto/test/FileWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/FileWriterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/soto/test/StringReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/StringReplace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/soto/test/FileWriterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/soto/test/FileWriterTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/soto/test/StringReplace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/soto/test/StringReplace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/soto/test/ExceptionMsgCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/ExceptionMsgCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/soto/test/StringTrimTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/soto/test/StringTrimTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,12 +228,29 @@
       <workItem from="1609204422295" duration="1177000" />
       <workItem from="1609898816000" duration="2877000" />
       <workItem from="1609904617423" duration="61000" />
-      <workItem from="1609904712570" duration="3366000" />
+      <workItem from="1609904712570" duration="7839000" />
+      <workItem from="1610588264514" duration="3498000" />
+      <workItem from="1610958352099" duration="1406000" />
+      <workItem from="1611539096284" duration="121000" />
+      <workItem from="1611539288776" duration="76000" />
+      <workItem from="1611539398380" duration="1198000" />
     </task>
+    <task id="LOCAL-00001" summary="同步测试代码">
+      <created>1610075152959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610075152959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="同步测试代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="同步测试代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" width="835" height="683" key="#Project_Structure" timestamp="1608606242712">
@@ -254,42 +265,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="529" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1609120422025" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1610073726926">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1610075150855">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610073726926" />
-    <state width="1323" height="206" key="GridCell.Tab.0.bottom" timestamp="1610075102534">
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610075150855" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1611215475376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="206" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610075102534" />
-    <state width="1323" height="206" key="GridCell.Tab.0.center" timestamp="1610075102534">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1611215475376" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1610078359271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="206" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610075102534" />
-    <state width="1323" height="206" key="GridCell.Tab.0.left" timestamp="1610075102533">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610078359271" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1610078359271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="206" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610075102533" />
-    <state width="1323" height="206" key="GridCell.Tab.0.right" timestamp="1610075102534">
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610078359271" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1610078359270">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="206" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610075102534" />
-    <state width="1323" height="134" key="GridCell.Tab.1.bottom" timestamp="1608519196260">
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610078359270" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1610078359271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="134" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608519196260" />
-    <state width="1323" height="134" key="GridCell.Tab.1.center" timestamp="1608519196260">
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610078359271" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1610078359271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="134" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1608519196260" />
-    <state width="1323" height="134" key="GridCell.Tab.1.left" timestamp="1608519196260">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610078359271" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1610078359271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="134" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1608519196260" />
-    <state width="1323" height="134" key="GridCell.Tab.1.right" timestamp="1608519196260">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1610078359271" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1610078359271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="134" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1608519196260" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1610078359271" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1610078359271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1610078359271" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1608802921544">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -298,6 +313,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609120332414" />
+    <state x="359" y="97" width="647" height="534" key="find.popup" timestamp="1610099336597">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="97" width="647" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1610099336597" />
     <state x="389" y="137" key="git4idea.merge.GitPullDialog" timestamp="1609205001832">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -306,5 +325,20 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="53" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1605449442362" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610097070956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610097070956" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/soto/test/ExceptionMsgCatch.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
