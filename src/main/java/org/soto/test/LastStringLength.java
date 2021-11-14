@@ -30,6 +30,7 @@ public class LastStringLength {
             count++;
             i --;
         }
+
         System.out.println(count);
     }
 }
